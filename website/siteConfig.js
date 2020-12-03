@@ -31,8 +31,8 @@ const siteConfig = {
 
   // Used for publishing and more
   url: 'https://afonsogcardoso.github.io', // Replace USERNAME with your GitHub username.
-  baseUrl: '/documentation-sw/', // The name of your GitHub project.
-  projectName: 'documentation-sw',  // The name of your GitHub project. Same as above.
+  baseUrl: '/Documentation-sw/', // The name of your GitHub project.
+  projectName: 'Documentation-sw',  // The name of your GitHub project. Same as above.
   organizationName: 'afonsogcardoso', // Your GitHub username.
   
   // For top-level user or org sites, the organization is still the same.
